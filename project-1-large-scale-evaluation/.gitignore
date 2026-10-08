@@ -18,7 +18,7 @@ __pycache__/
 *.log
 
 # Generated datasets
-datasets/
+/datasets/
 
 # Local executables
 dataset_generator
